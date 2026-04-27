@@ -6,4 +6,7 @@ The main focus of this code included the input validation,which helps the user t
 
 Once you got familiar with the input validation logic,it will be helpful in almost all program patterns where it requires user input validation and Program flow managemnet.
 
-This will be useful in the areas such as Menu Display and Selction criteria, Option selection methode and Exit window procees Etc.
+**This will be useful in the areas such as Menu Display and Selction criteria, Option selection methode and Exit window procees Etc.**
+
+Array Pass By reference
+Array Check sum validation (CRC,Parity)
